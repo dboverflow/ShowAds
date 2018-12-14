@@ -67,3 +67,4 @@ $(function(){
   $('#topad > a').attr('href',newBannerLink);
 });
 };
+hghgh
